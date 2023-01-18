@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name tiepieLCR)(type Legacy)(uri ${KIPRJMOD}/tiepieLCR.lib)(options "")(descr ""))
+)

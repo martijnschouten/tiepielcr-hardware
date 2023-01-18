@@ -1,0 +1,1564 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +2V5A
+D Power symbol creates a global label with name "+2V5"
+K power-flag
+$ENDCMP
+#
+$CMP +2V5B
+D Power symbol creates a global label with name "+2V5"
+K power-flag
+$ENDCMP
+#
+$CMP +2V5C
+D Power symbol creates a global label with name "+2V5"
+K power-flag
+$ENDCMP
+#
+$CMP -2V5A
+D Power symbol creates a global label with name "-2V5"
+K power-flag
+$ENDCMP
+#
+$CMP -2V5B
+D Power symbol creates a global label with name "-2V5"
+K power-flag
+$ENDCMP
+#
+$CMP -2V5C
+D Power symbol creates a global label with name "-2V5"
+K power-flag
+$ENDCMP
+#
+$CMP -2V8
+D Power symbol creates a global label with name "-2V5"
+K power-flag
+$ENDCMP
+#
+$CMP 1462039-4
+D Non-Latching Relay Surface Mount, 5V dc Coil, 2 A
+K Miniature Polarised Relay Dual Pole
+$ENDCMP
+#
+$CMP AD8505
+D Precision Micropower, Low Noise CMOS, Rail-to-Rail Input/Output Operational Amplifier, TSOT-23-5
+K single opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8603_8607_8609.pdf
+$ENDCMP
+#
+$CMP AD8620
+D Dual Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers, SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8610_8620.pdf
+$ENDCMP
+#
+$CMP AD8620_copy
+D Dual Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers, SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8610_8620.pdf
+$ENDCMP
+#
+$CMP AD8620_copy1
+D Dual Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers, SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8610_8620.pdf
+$ENDCMP
+#
+$CMP ADA4075-2
+D Ultralow Noise Amplifier at Lower Power, SOIC-8/LFCSP-8
+K dual low-power opamp
+F https://www.analog.com/static/imported-files/data_sheets/ADA4075-2.pdf
+$ENDCMP
+#
+$CMP ADA4075-2_copy
+D Ultralow Noise Amplifier at Lower Power, SOIC-8/LFCSP-8
+K dual low-power opamp
+F https://www.analog.com/static/imported-files/data_sheets/ADA4075-2.pdf
+$ENDCMP
+#
+$CMP ADA4075-2_copy1
+D Ultralow Noise Amplifier at Lower Power, SOIC-8/LFCSP-8
+K dual low-power opamp
+F https://www.analog.com/static/imported-files/data_sheets/ADA4075-2.pdf
+$ENDCMP
+#
+$CMP ADA4807-2ARM
+D Dual Rail-to-Rail Input/Output Amplifiers, MSOP-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4807-1_4807-2_4807-4.pdf
+$ENDCMP
+#
+$CMP ADA4807-2ARM_copy
+D Dual Rail-to-Rail Input/Output Amplifiers, MSOP-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4807-1_4807-2_4807-4.pdf
+$ENDCMP
+#
+$CMP ADA4807-2ARM_copy1
+D Dual Rail-to-Rail Input/Output Amplifiers, MSOP-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4807-1_4807-2_4807-4.pdf
+$ENDCMP
+#
+$CMP AZ850P1-x
+D American Zettler, Microminiature Polarised Dual Pole Relay Bistable
+K Miniature Polarised Relay Dual Pole Bistable
+F http://www.azettler.com/pdfs/az850.pdf
+$ENDCMP
+#
+$CMP LM358
+D Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm2904-n.pdf
+$ENDCMP
+#
+$CMP LM358_copy
+D Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm2904-n.pdf
+$ENDCMP
+#
+$CMP LM358_copy1
+D Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm2904-n.pdf
+$ENDCMP
+#
+$CMP LM4562
+D Dual High-Performance, High-Fidelity Audio Operational Amplifier, DIP-8/SOIC-8/TO-99-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm4562.pdf
+$ENDCMP
+#
+$CMP LM4562_copy
+D Dual High-Performance, High-Fidelity Audio Operational Amplifier, DIP-8/SOIC-8/TO-99-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm4562.pdf
+$ENDCMP
+#
+$CMP LM4562_copy1
+D Dual High-Performance, High-Fidelity Audio Operational Amplifier, DIP-8/SOIC-8/TO-99-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm4562.pdf
+$ENDCMP
+#
+$CMP LM6172
+D Dual High Speed, Low Power, Low Distortion, Voltage Feedback Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm6172.pdf
+$ENDCMP
+#
+$CMP LM6172_copy
+D Dual High Speed, Low Power, Low Distortion, Voltage Feedback Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm6172.pdf
+$ENDCMP
+#
+$CMP LM6172_copy1
+D Dual High Speed, Low Power, Low Distortion, Voltage Feedback Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm6172.pdf
+$ENDCMP
+#
+$CMP LM7332
+D Dual Rail-to-Rail Input and Output 30-V, Wide Voltage Range, High Output, Operational Amplifier, SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm7332.pdf
+$ENDCMP
+#
+$CMP LM7332_copy
+D Dual Rail-to-Rail Input and Output 30-V, Wide Voltage Range, High Output, Operational Amplifier, SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm7332.pdf
+$ENDCMP
+#
+$CMP LM7332_copy1
+D Dual Rail-to-Rail Input and Output 30-V, Wide Voltage Range, High Output, Operational Amplifier, SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm7332.pdf
+$ENDCMP
+#
+$CMP LMC6062
+D Precision CMOS Dual Micropower Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lmc6062.pdf
+$ENDCMP
+#
+$CMP LMC6062_copy
+D Precision CMOS Dual Micropower Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lmc6062.pdf
+$ENDCMP
+#
+$CMP LMC6062_copy1
+D Precision CMOS Dual Micropower Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lmc6062.pdf
+$ENDCMP
+#
+$CMP LMC6082
+D Precision CMOS Dual Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lmc6082.pdf
+$ENDCMP
+#
+$CMP LMC6082_copy
+D Precision CMOS Dual Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lmc6082.pdf
+$ENDCMP
+#
+$CMP LMC6082_copy1
+D Precision CMOS Dual Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lmc6082.pdf
+$ENDCMP
+#
+$CMP LMC6482
+D Dual CMOS Rail-to-Rail Input and Output Operational Amplifier, DIP-8/SOIC-8, SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lmc6482.pdf
+$ENDCMP
+#
+$CMP LMC6482_copy
+D Dual CMOS Rail-to-Rail Input and Output Operational Amplifier, DIP-8/SOIC-8, SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lmc6482.pdf
+$ENDCMP
+#
+$CMP LMC6482_copy1
+D Dual CMOS Rail-to-Rail Input and Output Operational Amplifier, DIP-8/SOIC-8, SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lmc6482.pdf
+$ENDCMP
+#
+$CMP LMH6609MF
+D 900MHz Voltage Feedback Op Amp, SOT-23-5
+K opamp single wideband unity-gain stable
+F http://www.ti.com/lit/ds/symlink/lmh6609.pdf
+$ENDCMP
+#
+$CMP LMH6609MF_copy
+D 900MHz Voltage Feedback Op Amp, SOT-23-5
+K opamp single wideband unity-gain stable
+F http://www.ti.com/lit/ds/symlink/lmh6609.pdf
+$ENDCMP
+#
+$CMP LMH6702MF
+D 1.7 GHz Ultra-Low Distortion Wideband Op Amp, SOT-23-5
+K opamp single low distortion wideband
+F http://www.ti.com/lit/ds/symlink/lmh6702.pdf
+$ENDCMP
+#
+$CMP LMH6702MF_copy
+D 1.7 GHz Ultra-Low Distortion Wideband Op Amp, SOT-23-5
+K opamp single low distortion wideband
+F http://www.ti.com/lit/ds/symlink/lmh6702.pdf
+$ENDCMP
+#
+$CMP LMV358
+D Dual Low-Voltage Rail-to-Rail Output Operational Amplifiers, SOIC-8/SSOP-8
+K single opamp
+F http://www.ti.com/lit/ds/symlink/lmv324.pdf
+$ENDCMP
+#
+$CMP LMV358_copy
+D Dual Low-Voltage Rail-to-Rail Output Operational Amplifiers, SOIC-8/SSOP-8
+K single opamp
+F http://www.ti.com/lit/ds/symlink/lmv324.pdf
+$ENDCMP
+#
+$CMP LMV358_copy1
+D Dual Low-Voltage Rail-to-Rail Output Operational Amplifiers, SOIC-8/SSOP-8
+K single opamp
+F http://www.ti.com/lit/ds/symlink/lmv324.pdf
+$ENDCMP
+#
+$CMP LP38693MP-5.0
+K Single Output LDO Low-Noise
+$ENDCMP
+#
+$CMP LP5907MFX-1.5
+D 250-mA Ultra-Low-Noise Low-IQ LDO, 1.5V, SOT-23
+K Single Output LDO Low-Noise
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
+$CMP LP5907MFX-1.8
+D 250-mA Ultra-Low-Noise Low-IQ LDO, 1.8V, SOT-23
+K Single Output LDO Low-Noise
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
+$CMP LP5907MFX-2.5
+D 250-mA Ultra-Low-Noise Low-IQ LDO, 2.5V, SOT-23
+K Single Output LDO Low-Noise
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
+$CMP LP5907MFX-2.8
+D 250-mA Ultra-Low-Noise Low-IQ LDO, 2.8V, SOT-23
+K Single Output LDO Low-Noise
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
+$CMP LP5907MFX-2.85
+D 250-mA Ultra-Low-Noise Low-IQ LDO, 2.85V, SOT-23
+K Single Output LDO Low-Noise
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
+$CMP LP5907MFX-2.9
+D 250-mA Ultra-Low-Noise Low-IQ LDO, 2.9V, SOT-23
+K Single Output LDO Low-Noise
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
+$CMP LP5907MFX-3.0
+D 250-mA Ultra-Low-Noise Low-IQ LDO, 3.0V, SOT-23
+K Single Output LDO Low-Noise
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
+$CMP LP5907MFX-3.1
+D 250-mA Ultra-Low-Noise Low-IQ LDO, 3.1V, SOT-23
+K Single Output LDO Low-Noise
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
+$CMP LP5907MFX-3.2
+D 250-mA Ultra-Low-Noise Low-IQ LDO, 3.2V, SOT-23
+K Single Output LDO Low-Noise
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
+$CMP LP5907MFX-3.3
+D 250-mA Ultra-Low-Noise Low-IQ LDO, 3.3V, SOT-23
+K Single Output LDO Low-Noise
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
+$CMP LP5907MFX-4.5
+D 250-mA Ultra-Low-Noise Low-IQ LDO, 4.5V, SOT-23
+K Single Output LDO Low-Noise
+F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+$ENDCMP
+#
+$CMP LPV811DBV
+D Single operational amplifier, 8kHz GBW, 425 nA/channel quiescent, 100 fA input bias, 300 uV offset max, 1 uV/C, SOT-23-5
+K single opamp low-power rail-to-rail
+F https://www.ti.com/lit/ds/symlink/lpv812.pdf
+$ENDCMP
+#
+$CMP LPV811DBV_copy
+D Single operational amplifier, 8kHz GBW, 425 nA/channel quiescent, 100 fA input bias, 300 uV offset max, 1 uV/C, SOT-23-5
+K single opamp low-power rail-to-rail
+F https://www.ti.com/lit/ds/symlink/lpv812.pdf
+$ENDCMP
+#
+$CMP LT1492
+D 5MHz, 3V/µs, Low Power, Single Supply, Dual Precision Op Amps, DIP-8/SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/14923f.pdf
+$ENDCMP
+#
+$CMP LT1492_copy
+D 5MHz, 3V/µs, Low Power, Single Supply, Dual Precision Op Amps, DIP-8/SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/14923f.pdf
+$ENDCMP
+#
+$CMP LT1492_copy1
+D 5MHz, 3V/µs, Low Power, Single Supply, Dual Precision Op Amps, DIP-8/SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/14923f.pdf
+$ENDCMP
+#
+$CMP LT6015xS5
+D 3.2MHz, 0.8V/us, Low Power, Over-The-Top Precision Op Amp, SOT-23-5
+K single opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/601567ff.pdf
+$ENDCMP
+#
+$CMP LT6015xS5_copy
+D 3.2MHz, 0.8V/us, Low Power, Over-The-Top Precision Op Amp, SOT-23-5
+K single opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/601567ff.pdf
+$ENDCMP
+#
+$CMP LT6234
+D Dual 60MHz, Rail-to-Rail Output, 1.9nV/√Hz, 1.2mA, Operational Amplifier, SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/623345fc.pdf
+$ENDCMP
+#
+$CMP LT6234_copy
+D Dual 60MHz, Rail-to-Rail Output, 1.9nV/√Hz, 1.2mA, Operational Amplifier, SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/623345fc.pdf
+$ENDCMP
+#
+$CMP LT6234_copy1
+D Dual 60MHz, Rail-to-Rail Output, 1.9nV/√Hz, 1.2mA, Operational Amplifier, SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/623345fc.pdf
+$ENDCMP
+#
+$CMP LT6237
+D Dual 215MHz, Rail-to-Rail Output, 1.1nV/√Hz, 3.5mA, Operational Amplifier, MSOP-8/DFN-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/623637fb.pdf
+$ENDCMP
+#
+$CMP LT6237_copy
+D Dual 215MHz, Rail-to-Rail Output, 1.1nV/√Hz, 3.5mA, Operational Amplifier, MSOP-8/DFN-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/623637fb.pdf
+$ENDCMP
+#
+$CMP LT6237_copy1
+D Dual 215MHz, Rail-to-Rail Output, 1.1nV/√Hz, 3.5mA, Operational Amplifier, MSOP-8/DFN-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/623637fb.pdf
+$ENDCMP
+#
+$CMP LTC6081xMS8
+D Precision Dual CMOS Rail-to-Rail Input/Output Amplifiers, MSOP-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/60812fd.pdf
+$ENDCMP
+#
+$CMP LTC6081xMS8_copy
+D Precision Dual CMOS Rail-to-Rail Input/Output Amplifiers, MSOP-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/60812fd.pdf
+$ENDCMP
+#
+$CMP LTC6081xMS8_copy1
+D Precision Dual CMOS Rail-to-Rail Input/Output Amplifiers, MSOP-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/60812fd.pdf
+$ENDCMP
+#
+$CMP LTC6268
+D 10 MHz, 850 µA Op Amps, SOT-23-5
+K single opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22141b.pdf
+$ENDCMP
+#
+$CMP LTC6268-10
+D 10 MHz, 850 µA Op Amps, SOT-23-5
+K single opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22141b.pdf
+$ENDCMP
+#
+$CMP LTC6269
+D Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm358.pdf
+$ENDCMP
+#
+$CMP LTC6269-10
+D Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm358.pdf
+$ENDCMP
+#
+$CMP MC33078
+D Low Noise, Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F https://www.onsemi.com/pub/Collateral/MC33078-D.PDF
+$ENDCMP
+#
+$CMP MC33078_copy
+D Low Noise, Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F https://www.onsemi.com/pub/Collateral/MC33078-D.PDF
+$ENDCMP
+#
+$CMP MC33078_copy1
+D Low Noise, Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F https://www.onsemi.com/pub/Collateral/MC33078-D.PDF
+$ENDCMP
+#
+$CMP MC33172
+D Dual Single Supply 3.0V to 44V, Low Power Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.onsemi.com/pub/Collateral/MC33171-D.PDF
+$ENDCMP
+#
+$CMP MC33172_copy
+D Dual Single Supply 3.0V to 44V, Low Power Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.onsemi.com/pub/Collateral/MC33171-D.PDF
+$ENDCMP
+#
+$CMP MC33172_copy1
+D Dual Single Supply 3.0V to 44V, Low Power Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.onsemi.com/pub/Collateral/MC33171-D.PDF
+$ENDCMP
+#
+$CMP MC33178
+D Dual Low Power, Low Noise Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F https://www.onsemi.com/pub/Collateral/MC33178-D.PDF
+$ENDCMP
+#
+$CMP MC33178_copy
+D Dual Low Power, Low Noise Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F https://www.onsemi.com/pub/Collateral/MC33178-D.PDF
+$ENDCMP
+#
+$CMP MC33178_copy1
+D Dual Low Power, Low Noise Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F https://www.onsemi.com/pub/Collateral/MC33178-D.PDF
+$ENDCMP
+#
+$CMP MCP6001-OT
+D 1MHz, Low-Power Op Amp, SOT-23-5
+K single opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP6001-OT_copy
+D 1MHz, Low-Power Op Amp, SOT-23-5
+K single opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP6002-xMS
+D 1MHz, Low-Power Op Amp, MSOP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP6002-xMS_copy
+D 1MHz, Low-Power Op Amp, MSOP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP6002-xMS_copy1
+D 1MHz, Low-Power Op Amp, MSOP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP6002-xP
+D 1MHz, Low-Power Op Amp, DIP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP6002-xP_copy
+D 1MHz, Low-Power Op Amp, DIP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP6002-xP_copy1
+D 1MHz, Low-Power Op Amp, DIP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP6002-xSN
+D 1MHz, Low-Power Op Amp, SOIC-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP6002-xSN_copy
+D 1MHz, Low-Power Op Amp, SOIC-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP6002-xSN_copy1
+D 1MHz, Low-Power Op Amp, SOIC-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP601-xOT
+D Single 2.7V to 6.0V Single Supply CMOS Op Amps, SOT-23-5
+K single opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf
+$ENDCMP
+#
+$CMP MCP601-xOT_copy
+D Single 2.7V to 6.0V Single Supply CMOS Op Amps, SOT-23-5
+K single opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf
+$ENDCMP
+#
+$CMP MCP602
+D Dual 2.7V to 6.0V Single Supply CMOS Op Amps, DIP-8/SOIC-8/TSSOP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf
+$ENDCMP
+#
+$CMP MCP602_copy
+D Dual 2.7V to 6.0V Single Supply CMOS Op Amps, DIP-8/SOIC-8/TSSOP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf
+$ENDCMP
+#
+$CMP MCP602_copy1
+D Dual 2.7V to 6.0V Single Supply CMOS Op Amps, DIP-8/SOIC-8/TSSOP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf
+$ENDCMP
+#
+$CMP MCP6401T-xOT
+D 1 MHz, 45 µA Op Amps, SOT-23-5
+K single opamp
+F http://ww1.microchip.com/downloads/en/devicedoc/22229d.pdf
+$ENDCMP
+#
+$CMP MCP6401T-xOT_copy
+D 1 MHz, 45 µA Op Amps, SOT-23-5
+K single opamp
+F http://ww1.microchip.com/downloads/en/devicedoc/22229d.pdf
+$ENDCMP
+#
+$CMP MCP6L92
+D 10 MHz, 850 µA Op Amps, SOIC-8/MSOP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22141b.pdf
+$ENDCMP
+#
+$CMP MCP6L92_copy
+D 10 MHz, 850 µA Op Amps, SOIC-8/MSOP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22141b.pdf
+$ENDCMP
+#
+$CMP MCP6L92_copy1
+D 10 MHz, 850 µA Op Amps, SOIC-8/MSOP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22141b.pdf
+$ENDCMP
+#
+$CMP NCP718xSN120
+D 300-mA, Wide Input Voltage, Low-IQ LDO, 1.2V, SOT-23
+K Single Output LDO Wide Input
+F https://www.onsemi.com/pub/Collateral/NCP718-D.PDF
+$ENDCMP
+#
+$CMP NCP718xSN150
+D 300-mA, Wide Input Voltage, Low-IQ LDO, 1.5V, SOT-23
+K Single Output LDO Wide Input
+F https://www.onsemi.com/pub/Collateral/NCP718-D.PDF
+$ENDCMP
+#
+$CMP NCP718xSN180
+D 300-mA, Wide Input Voltage, Low-IQ LDO, 1.8V, SOT-23
+K Single Output LDO Wide Input
+F https://www.onsemi.com/pub/Collateral/NCP718-D.PDF
+$ENDCMP
+#
+$CMP NCP718xSN250
+D 300-mA, Wide Input Voltage, Low-IQ LDO, 2.5V, SOT-23
+K Single Output LDO Wide Input
+F https://www.onsemi.com/pub/Collateral/NCP718-D.PDF
+$ENDCMP
+#
+$CMP NCP718xSN300
+D 300-mA, Wide Input Voltage, Low-IQ LDO, 3.0V, SOT-23
+K Single Output LDO Wide Input
+F https://www.onsemi.com/pub/Collateral/NCP718-D.PDF
+$ENDCMP
+#
+$CMP NCP718xSN330
+D 300-mA, Wide Input Voltage, Low-IQ LDO, 3.3V, SOT-23
+K Single Output LDO Wide Input
+F https://www.onsemi.com/pub/Collateral/NCP718-D.PDF
+$ENDCMP
+#
+$CMP NCP718xSN500
+D 300-mA, Wide Input Voltage, Low-IQ LDO, 5.0V, SOT-23
+K Single Output LDO Wide Input
+F https://www.onsemi.com/pub/Collateral/NCP718-D.PDF
+$ENDCMP
+#
+$CMP NE5532
+D Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/ne5532.pdf
+$ENDCMP
+#
+$CMP NE5532_copy
+D Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/ne5532.pdf
+$ENDCMP
+#
+$CMP NE5532_copy1
+D Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/ne5532.pdf
+$ENDCMP
+#
+$CMP NJM2043
+D Dual Low Noise Pre-Amplifier, DIP-8/DMP-8/SIP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM2043_E.pdf
+$ENDCMP
+#
+$CMP NJM2043_copy
+D Dual Low Noise Pre-Amplifier, DIP-8/DMP-8/SIP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM2043_E.pdf
+$ENDCMP
+#
+$CMP NJM2043_copy1
+D Dual Low Noise Pre-Amplifier, DIP-8/DMP-8/SIP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM2043_E.pdf
+$ENDCMP
+#
+$CMP NJM2114
+D Dual High Performance Low Noise Operational Amplifier, DIP-8/DMP-8/SIP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM2114_E.pdf
+$ENDCMP
+#
+$CMP NJM2114_copy
+D Dual High Performance Low Noise Operational Amplifier, DIP-8/DMP-8/SIP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM2114_E.pdf
+$ENDCMP
+#
+$CMP NJM2114_copy1
+D Dual High Performance Low Noise Operational Amplifier, DIP-8/DMP-8/SIP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM2114_E.pdf
+$ENDCMP
+#
+$CMP NJM4556A
+D Dual High Current Operational Amplifier, DIP-8/DMP-8/SIP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4556A_E.pdf
+$ENDCMP
+#
+$CMP NJM4556A_copy
+D Dual High Current Operational Amplifier, DIP-8/DMP-8/SIP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4556A_E.pdf
+$ENDCMP
+#
+$CMP NJM4556A_copy1
+D Dual High Current Operational Amplifier, DIP-8/DMP-8/SIP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4556A_E.pdf
+$ENDCMP
+#
+$CMP NJM4558
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4558_NJM4559_E.pdf
+$ENDCMP
+#
+$CMP NJM4558_copy
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4558_NJM4559_E.pdf
+$ENDCMP
+#
+$CMP NJM4558_copy1
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4558_NJM4559_E.pdf
+$ENDCMP
+#
+$CMP NJM4559
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4558_NJM4559_E.pdf
+$ENDCMP
+#
+$CMP NJM4559_copy
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4558_NJM4559_E.pdf
+$ENDCMP
+#
+$CMP NJM4559_copy1
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4558_NJM4559_E.pdf
+$ENDCMP
+#
+$CMP NJM4560
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4560_E.pdf
+$ENDCMP
+#
+$CMP NJM4560_copy
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4560_E.pdf
+$ENDCMP
+#
+$CMP NJM4560_copy1
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4560_E.pdf
+$ENDCMP
+#
+$CMP NJM4580
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/MSOP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4580_E.pdf
+$ENDCMP
+#
+$CMP NJM4580_copy
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/MSOP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4580_E.pdf
+$ENDCMP
+#
+$CMP NJM4580_copy1
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/MSOP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4580_E.pdf
+$ENDCMP
+#
+$CMP NJM5532
+D Dual Low-Noise Operational Amplifier, DIP-8/DMP-8/SIP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM5532_E.pdf
+$ENDCMP
+#
+$CMP NJM5532_copy
+D Dual Low-Noise Operational Amplifier, DIP-8/DMP-8/SIP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM5532_E.pdf
+$ENDCMP
+#
+$CMP NJM5532_copy1
+D Dual Low-Noise Operational Amplifier, DIP-8/DMP-8/SIP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM5532_E.pdf
+$ENDCMP
+#
+$CMP NTR3C21NZ
+D N-MOSFET transistor, gate/source/drain
+K transistor NMOS N-MOS N-MOSFET
+F ~
+$ENDCMP
+#
+$CMP OP249
+D Precision JFET, High Speed, Dual Operational Amplifier, DIP-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/OP249.pdf
+$ENDCMP
+#
+$CMP OP249_copy
+D Precision JFET, High Speed, Dual Operational Amplifier, DIP-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/OP249.pdf
+$ENDCMP
+#
+$CMP OP249_copy1
+D Precision JFET, High Speed, Dual Operational Amplifier, DIP-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/OP249.pdf
+$ENDCMP
+#
+$CMP OP275
+D Dual Bipolar/JFET, Audio Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/OP275.pdf
+$ENDCMP
+#
+$CMP OP275_copy
+D Dual Bipolar/JFET, Audio Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/OP275.pdf
+$ENDCMP
+#
+$CMP OP275_copy1
+D Dual Bipolar/JFET, Audio Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/OP275.pdf
+$ENDCMP
+#
+$CMP OPA1602
+D Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8/MSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa1604.pdf
+$ENDCMP
+#
+$CMP OPA1602_copy
+D Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8/MSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa1604.pdf
+$ENDCMP
+#
+$CMP OPA1602_copy1
+D Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8/MSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa1604.pdf
+$ENDCMP
+#
+$CMP OPA1612AxD
+D Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa1612.pdf
+$ENDCMP
+#
+$CMP OPA1612AxD_copy
+D Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa1612.pdf
+$ENDCMP
+#
+$CMP OPA1612AxD_copy1
+D Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa1612.pdf
+$ENDCMP
+#
+$CMP OPA1678
+D Low-Distortion Audio Operational Amplifiers, SOIC-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa1678.pdf
+$ENDCMP
+#
+$CMP OPA1678_copy
+D Low-Distortion Audio Operational Amplifiers, SOIC-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa1678.pdf
+$ENDCMP
+#
+$CMP OPA1678_copy1
+D Low-Distortion Audio Operational Amplifiers, SOIC-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa1678.pdf
+$ENDCMP
+#
+$CMP OPA188xxDBV
+D Zero-Drift, Precision, Low-Noise, Rail-to-Rail Output, 36-V Operational Amplifier, TSOT-23-5
+K single opamp zero-drift
+F http://www.ti.com/lit/ds/symlink/opa188.pdf
+$ENDCMP
+#
+$CMP OPA196xDBV
+D Single, Low-Power, Low Offset Voltage, Rail-to-Rail Operational Amplifier, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa4196.pdf
+$ENDCMP
+#
+$CMP OPA196xDBV_copy
+D Single, Low-Power, Low Offset Voltage, Rail-to-Rail Operational Amplifier, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa4196.pdf
+$ENDCMP
+#
+$CMP OPA197xDBV
+D Single 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOT-23
+K single opamp rtor
+F http://www.ti.com/lit/ds/symlink/opa197.pdf
+$ENDCMP
+#
+$CMP OPA197xDBV_copy
+D Single 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOT-23
+K single opamp rtor
+F http://www.ti.com/lit/ds/symlink/opa197.pdf
+$ENDCMP
+#
+$CMP OPA2134
+D Dual SoundPlus High Performance Audio Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa134.pdf
+$ENDCMP
+#
+$CMP OPA2134_copy
+D Dual SoundPlus High Performance Audio Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa134.pdf
+$ENDCMP
+#
+$CMP OPA2134_copy1
+D Dual SoundPlus High Performance Audio Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa134.pdf
+$ENDCMP
+#
+$CMP OPA2277
+D Dual High Precision Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F https://www.ti.com/lit/ds/symlink/opa2277.pdf
+$ENDCMP
+#
+$CMP OPA2277_copy
+D Dual High Precision Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F https://www.ti.com/lit/ds/symlink/opa2277.pdf
+$ENDCMP
+#
+$CMP OPA2277_copy1
+D Dual High Precision Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F https://www.ti.com/lit/ds/symlink/opa2277.pdf
+$ENDCMP
+#
+$CMP OPA2333xxD
+D Dual 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa333.pdf
+$ENDCMP
+#
+$CMP OPA2333xxDGK
+D Dual 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa333.pdf
+$ENDCMP
+#
+$CMP OPA2333xxDGK_copy
+D Dual 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa333.pdf
+$ENDCMP
+#
+$CMP OPA2333xxDGK_copy1
+D Dual 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa333.pdf
+$ENDCMP
+#
+$CMP OPA2333xxD_copy
+D Dual 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa333.pdf
+$ENDCMP
+#
+$CMP OPA2333xxD_copy1
+D Dual 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa333.pdf
+$ENDCMP
+#
+$CMP OPA2340
+D Dual Single-Supply, Rail-to-Rail Operational Amplifiers, MicroAmplifier Series, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa4340.pdf
+$ENDCMP
+#
+$CMP OPA2340_copy
+D Dual Single-Supply, Rail-to-Rail Operational Amplifiers, MicroAmplifier Series, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa4340.pdf
+$ENDCMP
+#
+$CMP OPA2340_copy1
+D Dual Single-Supply, Rail-to-Rail Operational Amplifiers, MicroAmplifier Series, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa4340.pdf
+$ENDCMP
+#
+$CMP OPA2356xxD
+D Dual High Speed CMOS Operational Amplifiers, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa2356.pdf
+$ENDCMP
+#
+$CMP OPA2356xxDGK
+D Dual High Speed CMOS Operational Amplifiers, VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa2356.pdf
+$ENDCMP
+#
+$CMP OPA2356xxDGK_copy
+D Dual High Speed CMOS Operational Amplifiers, VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa2356.pdf
+$ENDCMP
+#
+$CMP OPA2356xxDGK_copy1
+D Dual High Speed CMOS Operational Amplifiers, VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa2356.pdf
+$ENDCMP
+#
+$CMP OPA2356xxD_copy
+D Dual High Speed CMOS Operational Amplifiers, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa2356.pdf
+$ENDCMP
+#
+$CMP OPA2356xxD_copy1
+D Dual High Speed CMOS Operational Amplifiers, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa2356.pdf
+$ENDCMP
+#
+$CMP OPA2376xxD
+D Dual Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa376.pdf
+$ENDCMP
+#
+$CMP OPA2376xxDGK
+D Dual Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa376.pdf
+$ENDCMP
+#
+$CMP OPA2376xxDGK_copy
+D Dual Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa376.pdf
+$ENDCMP
+#
+$CMP OPA2376xxDGK_copy1
+D Dual Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa376.pdf
+$ENDCMP
+#
+$CMP OPA2376xxD_copy
+D Dual Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa376.pdf
+$ENDCMP
+#
+$CMP OPA2376xxD_copy1
+D Dual Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa376.pdf
+$ENDCMP
+#
+$CMP OPA2691
+D Dual Wideband, Current-Feedback Operational Amplifier, SOIC-8
+K dual current feedback opamp
+F http://www.ti.com/lit/ds/sbos224d/sbos224d.pdf
+$ENDCMP
+#
+$CMP OPA2691_copy
+D Dual Wideband, Current-Feedback Operational Amplifier, SOIC-8
+K dual current feedback opamp
+F http://www.ti.com/lit/ds/sbos224d/sbos224d.pdf
+$ENDCMP
+#
+$CMP OPA2691_copy1
+D Dual Wideband, Current-Feedback Operational Amplifier, SOIC-8
+K dual current feedback opamp
+F http://www.ti.com/lit/ds/sbos224d/sbos224d.pdf
+$ENDCMP
+#
+$CMP OPA330xxDBV
+D 50μV V OS, 0.25μV/°C, 35μA CMOS OPERATIONAL AMPLIFIERS, Zerø-Drift Series, SOT
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa330.pdf
+$ENDCMP
+#
+$CMP OPA330xxDBV_copy
+D 50μV V OS, 0.25μV/°C, 35μA CMOS OPERATIONAL AMPLIFIERS, Zerø-Drift Series, SOT
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa330.pdf
+$ENDCMP
+#
+$CMP OPA333xxDBV
+D Single 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa333.pdf
+$ENDCMP
+#
+$CMP OPA333xxDBV_copy
+D Single 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa333.pdf
+$ENDCMP
+#
+$CMP OPA340NA
+D Single Single-Supply, Rail-to-Rail Operational Amplifier, MicroAmplifier Series, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa340.pdf
+$ENDCMP
+#
+$CMP OPA340NA_copy
+D Single Single-Supply, Rail-to-Rail Operational Amplifier, MicroAmplifier Series, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa340.pdf
+$ENDCMP
+#
+$CMP OPA356xxDBV
+D Single High Speed CMOS Operational Amplifier, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa356.pdf
+$ENDCMP
+#
+$CMP OPA356xxDBV_copy
+D Single High Speed CMOS Operational Amplifier, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa356.pdf
+$ENDCMP
+#
+$CMP OPA376xxDBV
+D Single Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa376.pdf
+$ENDCMP
+#
+$CMP OPA376xxDBV_copy
+D Single Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa376.pdf
+$ENDCMP
+#
+$CMP OPA842xDBV
+D 200MHz, Low Distortion, Unity-Gain Stable, Voltage Feedback Operational Amplifier, SOT23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa842.pdf
+$ENDCMP
+#
+$CMP OPA842xDBV_copy
+D 200MHz, Low Distortion, Unity-Gain Stable, Voltage Feedback Operational Amplifier, SOT23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa842.pdf
+$ENDCMP
+#
+$CMP OPA843xDBV
+D 800MHz, Wideband, Low Distortion, Medium Gain, Voltage-Feedback Operational Amplifier, SOT-23-5
+K single opamp low distortion
+F http://www.ti.com/lit/ds/symlink/opa843.pdf
+$ENDCMP
+#
+$CMP OPA843xDBV_copy
+D 800MHz, Wideband, Low Distortion, Medium Gain, Voltage-Feedback Operational Amplifier, SOT-23-5
+K single opamp low distortion
+F http://www.ti.com/lit/ds/symlink/opa843.pdf
+$ENDCMP
+#
+$CMP OPA846xDBV
+D 1750MHz, Wideband, Low-Noise, Voltage Feedback Operational Amplifier, SOT23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa846.pdf
+$ENDCMP
+#
+$CMP OPA846xDBV_copy
+D 1750MHz, Wideband, Low-Noise, Voltage Feedback Operational Amplifier, SOT23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa846.pdf
+$ENDCMP
+#
+$CMP RC4558
+D Dual General Purpose, Operational Amplifier, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP RC4558_copy
+D Dual General Purpose, Operational Amplifier, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP RC4558_copy1
+D Dual General Purpose, Operational Amplifier, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP RC4560
+D Dual Audio Operational Amplifier, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4560.pdf
+$ENDCMP
+#
+$CMP RC4560_copy
+D Dual Audio Operational Amplifier, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4560.pdf
+$ENDCMP
+#
+$CMP RC4560_copy1
+D Dual Audio Operational Amplifier, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4560.pdf
+$ENDCMP
+#
+$CMP RC4580
+D Dual Audio Operational Amplifier, SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4580.pdf
+$ENDCMP
+#
+$CMP RC4580_copy
+D Dual Audio Operational Amplifier, SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4580.pdf
+$ENDCMP
+#
+$CMP RC4580_copy1
+D Dual Audio Operational Amplifier, SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4580.pdf
+$ENDCMP
+#
+$CMP SA5532
+D Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/ne5532.pdf
+$ENDCMP
+#
+$CMP SA5532_copy
+D Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/ne5532.pdf
+$ENDCMP
+#
+$CMP SA5532_copy1
+D Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/ne5532.pdf
+$ENDCMP
+#
+$CMP SI2333DDS-T1-GE3_
+D P-MOSFET transistor, gate/source/drain
+K transistor PMOS P-MOS P-MOSFET
+F ~
+$ENDCMP
+#
+$CMP SW_DP3T_x2
+D Switch, dual pole double throw, separate symbols
+K switch dual-pole double-throw DPDT spdt ON-ON
+F ~
+$ENDCMP
+#
+$CMP SW_DPDT_x2_WITH_CASE
+D Switch, dual pole double throw, separate symbols
+K switch dual-pole double-throw DPDT spdt ON-ON
+F ~
+$ENDCMP
+#
+$CMP TL062
+D Dual Low-Power JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl061.pdf
+$ENDCMP
+#
+$CMP TL062_copy
+D Dual Low-Power JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl061.pdf
+$ENDCMP
+#
+$CMP TL062_copy1
+D Dual Low-Power JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl061.pdf
+$ENDCMP
+#
+$CMP TL072
+D Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl071.pdf
+$ENDCMP
+#
+$CMP TL072_copy
+D Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl071.pdf
+$ENDCMP
+#
+$CMP TL072_copy1
+D Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl071.pdf
+$ENDCMP
+#
+$CMP TL082
+D Dual JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl081.pdf
+$ENDCMP
+#
+$CMP TL082_copy
+D Dual JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl081.pdf
+$ENDCMP
+#
+$CMP TL082_copy1
+D Dual JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl081.pdf
+$ENDCMP
+#
+$CMP TLC272
+D Dual LinCMOS Precision Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tlc272.pdf
+$ENDCMP
+#
+$CMP TLC272_copy
+D Dual LinCMOS Precision Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tlc272.pdf
+$ENDCMP
+#
+$CMP TLC272_copy1
+D Dual LinCMOS Precision Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tlc272.pdf
+$ENDCMP
+#
+$CMP TLC277
+D Dual LinCMOS Precision Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tlc272.pdf
+$ENDCMP
+#
+$CMP TLC277_copy
+D Dual LinCMOS Precision Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tlc272.pdf
+$ENDCMP
+#
+$CMP TLC277_copy1
+D Dual LinCMOS Precision Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tlc272.pdf
+$ENDCMP
+#
+$CMP TLC59116
+D 16-Channel LED Driver with I2C control
+K PWM LED driver
+$ENDCMP
+#
+$CMP TLV2371DBV
+D Rail-to-Rail Input/Output Operational Amplifier, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/tlv2375.pdf
+$ENDCMP
+#
+$CMP TLV2371DBV_copy
+D Rail-to-Rail Input/Output Operational Amplifier, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/tlv2375.pdf
+$ENDCMP
+#
+$CMP TLV2372
+D Dual Rail-to-Rail Input/Output Operational Amplifier, DIP-8/SOIC-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tlv2375.pdf
+$ENDCMP
+#
+$CMP TLV2372_copy
+D Dual Rail-to-Rail Input/Output Operational Amplifier, DIP-8/SOIC-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tlv2375.pdf
+$ENDCMP
+#
+$CMP TLV2372_copy1
+D Dual Rail-to-Rail Input/Output Operational Amplifier, DIP-8/SOIC-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tlv2375.pdf
+$ENDCMP
+#
+$CMP TS881xLx
+D Rail-to-rail 0.9V nanopower comparator, SOT-23-5
+K single comparator
+F www.st.com/resource/en/datasheet/ts881.pdf
+$ENDCMP
+#
+$CMP TS881xLx_copy
+D Rail-to-rail 0.9V nanopower comparator, SOT-23-5
+K single comparator
+F www.st.com/resource/en/datasheet/ts881.pdf
+$ENDCMP
+#
+$CMP TS912
+D Dual Rail-to-rail CMOS Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F www.st.com/resource/en/datasheet/ts912.pdf
+$ENDCMP
+#
+$CMP TS912_copy
+D Dual Rail-to-rail CMOS Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F www.st.com/resource/en/datasheet/ts912.pdf
+$ENDCMP
+#
+$CMP TS912_copy1
+D Dual Rail-to-rail CMOS Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F www.st.com/resource/en/datasheet/ts912.pdf
+$ENDCMP
+#
+$CMP TSV911xxLx
+D Single rail-to-rail input/output 8 MHz operational amplifiers, SOT-23-5
+K single opamp
+F www.st.com/resource/en/datasheet/tsv911.pdf
+$ENDCMP
+#
+$CMP TSV911xxLx_copy
+D Single rail-to-rail input/output 8 MHz operational amplifiers, SOT-23-5
+K single opamp
+F www.st.com/resource/en/datasheet/tsv911.pdf
+$ENDCMP
+#
+$CMP TSV912IDT
+D Dual rail-to-rail input/output 8 MHz operational amplifiers, SOIC-8
+K dual opamp
+F www.st.com/resource/en/datasheet/tsv911.pdf
+$ENDCMP
+#
+$CMP TSV912IDT_copy
+D Dual rail-to-rail input/output 8 MHz operational amplifiers, SOIC-8
+K dual opamp
+F www.st.com/resource/en/datasheet/tsv911.pdf
+$ENDCMP
+#
+$CMP TSV912IDT_copy1
+D Dual rail-to-rail input/output 8 MHz operational amplifiers, SOIC-8
+K dual opamp
+F www.st.com/resource/en/datasheet/tsv911.pdf
+$ENDCMP
+#
+$CMP TSV912IST
+D Dual rail-to-rail input/output 8 MHz operational amplifiers, MiniSO-8
+K dual opamp
+F www.st.com/resource/en/datasheet/tsv911.pdf
+$ENDCMP
+#
+$CMP TSV912IST_copy
+D Dual rail-to-rail input/output 8 MHz operational amplifiers, MiniSO-8
+K dual opamp
+F www.st.com/resource/en/datasheet/tsv911.pdf
+$ENDCMP
+#
+$CMP TSV912IST_copy1
+D Dual rail-to-rail input/output 8 MHz operational amplifiers, MiniSO-8
+K dual opamp
+F www.st.com/resource/en/datasheet/tsv911.pdf
+$ENDCMP
+#
+$CMP ad8506
+D Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm358.pdf
+$ENDCMP
+#
+$CMP battery_2P
+D Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)
+K screw terminal
+F ~
+$ENDCMP
+#
+$CMP tiepie_aux
+D 9-pin female D-SUB connector, Mounting Hole
+K connector female D-SUB
+F  ~
+$ENDCMP
+#
+#End Doc Library
